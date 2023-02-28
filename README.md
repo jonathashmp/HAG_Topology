@@ -10,7 +10,7 @@ The proposed approach is evaluated in four experiments that analyze the influenc
 
 Below we have the H-A Gripper scanning a sphere, on the left a video using the front view and on the right the top view. 
 
-<img src="https://github.com/jonathashmp/HAG_Topology/blob/main/Videos/H-A%20Gripper%201.gif" width=40% height=40% /> <img src="https://github.com/jonathashmp/HAG_Topology/blob/main/Videos/H-A%20Gripper%202.gif" width=50% height=50% />
+<img src="https://github.com/jonathashmp/HAG_Topology/blob/main/Videos/H-A%20Gripper%201.gif" width=60% height=60% /> <img src="https://github.com/jonathashmp/HAG_Topology/blob/main/Videos/H-A%20Gripper%202.gif" width=60% height=60% />
 
 ## Instructions
 
