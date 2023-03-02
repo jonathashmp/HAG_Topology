@@ -16,3 +16,5 @@ With this information, you can assemble the grips by downloading the [STL files 
 
 The finger close mechanism is responsible for gripping the object and its structure can be seen in figure below. The figure shows two types of fingers: the left finger is from H-A gripper one, and the right finger is from H-A gripper two.
 
+<img src=https://github.com/jonathashmp/HAG_Topology/blob/main/Figures/3D%20exploded%20view%20of%20finger%20closing%20mechanism.png />
+
