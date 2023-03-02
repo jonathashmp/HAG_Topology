@@ -18,7 +18,7 @@ With this information, you can assemble the grips by downloading the [STL files 
 
 The finger close mechanism is responsible for gripping the object and its structure can be seen in figure below. The figure shows two types of fingers: the left finger is from H-A gripper one, and the right finger is from H-A gripper two.
 
-<img src=https://github.com/jonathashmp/HAG_Topology/blob/main/Figures/3D%20exploded%20view%20of%20finger%20closing%20mechanism.png width=50% height=50% />
+<div align="center"> <img src=https://github.com/jonathashmp/HAG_Topology/blob/main/Figures/3D%20exploded%20view%20of%20finger%20closing%20mechanism.png width=50% height=50% /> </div>
 
 In this figure, it is possible to observe the step-by-step assembly of the two types of fingers. All these parts can be printed using the files in the [STL H-A Grippers 1 and 2 folder](https://github.com/jonathashmp/HAG_Topology/tree/main/STL%20H-A%20Grippers%201%20and%202).
 
@@ -34,6 +34,6 @@ In this figure, it is possible to observe the step-by-step assembly of the two t
 
 The H-A gripper was the ability to rotate fingers around the object about the ''palm'' of the gripper. With this control, each finger can vary its position from 0º to 180º to find the ideal position to perform the pick-up. In figure below, we have an exploded view of the 3D project of this gripper control that will help us better understand how this rotational movement of the fingers occurs.
 
-<img src=https://github.com/jonathashmp/HAG_Topology/blob/main/Figures/3D%20exploded%20view%20of%20the%20H-A%20gripper.png width=50% height=50% />
+<div align="center"> <img src=https://github.com/jonathashmp/HAG_Topology/blob/main/Figures/3D%20exploded%20view%20of%20the%20H-A%20gripper.png width=50% height=50% /> </div>
 
 In this figure, it is possible to observe the step-by-step assembly of the two types of fingers. All these parts can be printed using the files in the [STL H-A Grippers 1 and 2 folder](https://github.com/jonathashmp/HAG_Topology/tree/main/STL%20H-A%20Grippers%201%20and%202).
