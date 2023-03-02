@@ -26,7 +26,7 @@ In this figure, it is possible to observe the step-by-step assembly of the two t
 
 The finger tilt control allows a variation of up to 10º of lateral inclination for each finger to help adjust the gripper to obtain the ideal position to perform the pick-up and its structure can be seen in figure below. The figure shows only a structure to finger tilt adjustment because the H-A gripper one and two have the same design.
 
-<img src=https://github.com/jonathashmp/HAG_Topology/blob/main/Figures/3D%20view%20of%20the%20Finger%20Tilt%20Adjustment.png width=50% height=50%/>
+<div align="center"> <img src=https://github.com/jonathashmp/HAG_Topology/blob/main/Figures/3D%20view%20of%20the%20Finger%20Tilt%20Adjustment.png width=50% height=50%/> </div>
 
 In this figure, it is possible to observe the step-by-step assembly of the two types of fingers. All these parts can be printed using the files in the [STL H-A Grippers 1 and 2 folder](https://github.com/jonathashmp/HAG_Topology/tree/main/STL%20H-A%20Grippers%201%20and%202).
 
