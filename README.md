@@ -4,7 +4,7 @@ This study presents a novel topology of a robotic gripper with three reconfigura
 
 Below we have the two versions of the claw with its exploded view. On the left side is the H-A Gripper one that has finger closure control through a link, and on the right side, we have the H-A Gripper two that uses micro servos to control the phalanges.
 
-<img src="https://github.com/jonathashmp/HAG_Topology/blob/main/Videos/H-A%20Gripper%201.gif" width=60% height=60% /> <img src="https://github.com/jonathashmp/HAG_Topology/blob/main/Videos/H-A%20Gripper%202.gif" width=60% height=60% />
+<img src="https://github.com/jonathashmp/HAG_Topology/blob/main/Videos/H-A%20Gripper%201.gif" width=50% height=50% /> <img src="https://github.com/jonathashmp/HAG_Topology/blob/main/Videos/H-A%20Gripper%202.gif" width=50% height=50% />
 
 ## Instructions
 
@@ -12,6 +12,7 @@ These instructions explain how H-A grippers work and the parts needed to rebuild
 
 With this information, you can assemble the grips by downloading the [STL files of the H-A gripper one and two](https://github.com/jonathashmp/HAG_Topology/tree/main/STL%20H-A%20Grippers%201%20and%202).
 
-### 1 - H-A Grippers design.
+### 1 - Mechanism of Fingers Closing
 
+The finger close mechanism is responsible for gripping the object and its structure can be seen in figure below. The figure shows two types of fingers: the left finger is from H-A gripper one, and the right finger is from H-A gripper two.
 
