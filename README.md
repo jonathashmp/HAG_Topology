@@ -10,7 +10,7 @@ Below we have the two versions of the claw with its exploded view. On the left s
 
 These instructions explain how H-A grippers work and the parts needed to rebuild the gripper using a 3D printer. 
 
-With this information, you can assemble the grips by downloading the [STL files of the H-A gripper one and two] (https://github.com/jonathashmp/HAG_Topology/tree/main/STL%20H-A%20Grippers%201%20and%202).
+With this information, you can assemble the grips by downloading the [STL files of the H-A gripper one and two](https://github.com/jonathashmp/HAG_Topology/tree/main/STL%20H-A%20Grippers%201%20and%202).
 
 ### 1 - H-A Grippers design.
 
