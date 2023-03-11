@@ -4,7 +4,7 @@ This study presents a novel topology of a robotic gripper with three reconfigura
 
 Below we have the two versions of the claw with its exploded view. On the left side is the H-A Gripper one that has finger closure control through a link, and on the right side, we have the H-A Gripper two that uses micro servos to control the phalanges.
 
-H-A Gripper 1:<img src="https://github.com/jonathashmp/HAG_Topology/blob/main/Videos/H-A%20Gripper%201.gif" width=80% height=100% /> 
+H-A Gripper 1:<img src="https://github.com/jonathashmp/HAG_Topology/blob/main/Videos/H-A%20Gripper%201.gif" /> 
 
 H-A Gripper 2: <img src="https://github.com/jonathashmp/HAG_Topology/blob/main/Videos/H-A%20Gripper%202.gif" width=80% height=100% />
 
